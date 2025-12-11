@@ -6,5 +6,13 @@
     "lastpushDate": "2025-12-03T08:43:20.925Z",
     "gitVersionName": "v2",
     "lastCommitUser": "lts-dev "
+  },
+  "de9a1fd7-8573-4d0d-9fab-58209cb38339": {
+    "gitAppName": "Demo App",
+    "lastCommitMessage": "Version v1 Created of app Demo App",
+    "gitVersionId": "94b109e5-bf7d-4054-b70d-612d50deae4e",
+    "lastpushDate": "2025-12-11T13:08:23.450Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "lts-dev "
   }
 }
