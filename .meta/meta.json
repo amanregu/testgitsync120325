@@ -9,10 +9,10 @@
   },
   "de9a1fd7-8573-4d0d-9fab-58209cb38339": {
     "gitAppName": "Demo App",
-    "lastCommitMessage": "Version v1 Created of app Demo App",
-    "gitVersionId": "94b109e5-bf7d-4054-b70d-612d50deae4e",
-    "lastpushDate": "2025-12-11T13:08:23.450Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v1.1 Created of app Demo App",
+    "gitVersionId": "fc867a73-67eb-4252-8381-f4517eda5579",
+    "lastpushDate": "2025-12-11T13:09:04.143Z",
+    "gitVersionName": "v1.1",
     "lastCommitUser": "lts-dev "
   }
 }
