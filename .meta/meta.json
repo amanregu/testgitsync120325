@@ -14,5 +14,13 @@
     "lastpushDate": "2025-12-11T13:09:04.143Z",
     "gitVersionName": "v1.1",
     "lastCommitUser": "lts-dev "
+  },
+  "65d197ac-f7e3-4205-a240-352305a95ad1": {
+    "gitAppName": "Demo App",
+    "lastCommitMessage": "ss",
+    "gitVersionId": "cca97671-e3aa-4c5c-a4ae-d725040b458e",
+    "lastpushDate": "2025-12-16T17:41:43.994Z",
+    "gitVersionName": "v1.1",
+    "lastCommitUser": "lts-dev "
   }
 }
