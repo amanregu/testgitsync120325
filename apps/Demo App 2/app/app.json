@@ -1,0 +1,13 @@
+{
+  "id": "4962910e-397e-470e-a4af-ec4fa2ded542",
+  "name": "Demo App 2",
+  "type": "front-end",
+  "slug": "8c1ad2b4-5da3-4a7a-81c9-ffebfe3eb48c",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "draghandle",
+  "tooljetVersion": "3.21.15-beta-ee"
+}
