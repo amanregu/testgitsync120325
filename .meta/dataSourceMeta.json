@@ -1,0 +1,21 @@
+{
+  "2a864b5a-b9ba-4e52-970b-6c3c2ec69d7d": {
+    "name": "postgresql-aman",
+    "kind": "postgresql",
+    "updatedAt": "2026-04-14T14:26:43.618Z",
+    "contentHash": "71a834ea97fdb2c86745c15f156c65ea70b889e0571fd3c0b70fd81214454ccd"
+  },
+  "fc9008c1-d10e-4c2d-9116-1411420a47bf": {
+    "name": "postgresql_12",
+    "kind": "postgresql",
+    "updatedAt": "2026-04-14T14:26:43.618Z",
+    "contentHash": "49c490af8f8cfb7b3593ba6ea2385a2d8bf7c5fa282894eda1bf06550ef0ea10"
+  },
+  "null": {
+    "name": "snowflake",
+    "kind": "snowflake",
+    "updatedAt": "2026-04-14T14:26:43.618Z",
+    "contentHash": "3c5f8ee213962d8bb83bd8c0d863b116ee76ad8b388f4330f198721a379d9605"
+  },
+  "lastUpdatedAt": "2026-04-14T14:26:43.618Z"
+}
