@@ -1,0 +1,13 @@
+{
+  "id": "8a604546-2596-4fb2-9844-8415938e450d",
+  "name": "getUsers",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "SELECT * FROM Users_Demo",
+    "runOnPageLoad": true
+  },
+  "dataSourceId": "2a864b5a-b9ba-4e52-970b-6c3c2ec69d7d",
+  "appVersionId": "09f771a2-7c61-409d-9f33-2ead15d408f4"
+}

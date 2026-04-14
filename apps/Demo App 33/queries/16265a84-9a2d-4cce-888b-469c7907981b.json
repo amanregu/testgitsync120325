@@ -1,0 +1,18 @@
+{
+  "id": "16265a84-9a2d-4cce-888b-469c7907981b",
+  "name": "addUser",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "INSERT INTO Users_Demo (id, first_name, last_name, hire_date, salary)\nVALUES (\n  {{components.6542d2a8-0806-47f3-b1ef-84d8afd3bbf9.data.id.value}},\n  '{{components.6542d2a8-0806-47f3-b1ef-84d8afd3bbf9.data.first_name.value}}',\n  '{{components.6542d2a8-0806-47f3-b1ef-84d8afd3bbf9.data.last_name.value}}',\n  '{{components.6542d2a8-0806-47f3-b1ef-84d8afd3bbf9.data.hire_date.value}}',\n  {{components.6542d2a8-0806-47f3-b1ef-84d8afd3bbf9.data.salary.value}}\n);",
+    "query_params": [
+      [
+        "",
+        ""
+      ]
+    ]
+  },
+  "dataSourceId": "2a864b5a-b9ba-4e52-970b-6c3c2ec69d7d",
+  "appVersionId": "09f771a2-7c61-409d-9f33-2ead15d408f4"
+}

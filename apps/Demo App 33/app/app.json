@@ -1,0 +1,13 @@
+{
+  "id": "cf04f6c5-478e-41cc-a13a-4dc6414d5dc7",
+  "name": "Demo App 33",
+  "type": "front-end",
+  "slug": "17f95309-f778-4749-a824-347c8300237f",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.15-beta-ee"
+}
