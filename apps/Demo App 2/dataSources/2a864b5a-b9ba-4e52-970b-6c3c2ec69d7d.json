@@ -1,0 +1,9 @@
+{
+  "id": "2a864b5a-b9ba-4e52-970b-6c3c2ec69d7d",
+  "name": "postgresql-aman",
+  "kind": "postgresql",
+  "type": "default",
+  "pluginId": null,
+  "appVersionId": null,
+  "scope": "global"
+}
