@@ -1,0 +1,18 @@
+{
+  "id": "50702d6a-75a8-431a-ad2b-66188ae59256",
+  "name": "Page 1",
+  "handle": "page-1",
+  "index": 2,
+  "disabled": null,
+  "hidden": null,
+  "icon": null,
+  "autoComputeLayout": true,
+  "appVersionId": "09f771a2-7c61-409d-9f33-2ead15d408f4",
+  "pageGroupIndex": null,
+  "pageGroupId": null,
+  "isPageGroup": false,
+  "url": null,
+  "openIn": "new_tab",
+  "type": "default",
+  "appId": ""
+}

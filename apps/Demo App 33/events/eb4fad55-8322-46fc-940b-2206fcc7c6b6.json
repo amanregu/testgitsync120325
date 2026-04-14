@@ -1,0 +1,17 @@
+{
+  "id": "eb4fad55-8322-46fc-940b-2206fcc7c6b6",
+  "name": "addUser Query Success",
+  "index": 0,
+  "event": {
+    "eventId": "onDataQuerySuccess",
+    "message": "Hello world!",
+    "queryId": "8a604546-2596-4fb2-9844-8415938e450d",
+    "actionId": "run-query",
+    "alertType": "info",
+    "queryName": "getUsers",
+    "parameters": {}
+  },
+  "sourceId": "16265a84-9a2d-4cce-888b-469c7907981b",
+  "target": "data_query",
+  "appVersionId": "09f771a2-7c61-409d-9f33-2ead15d408f4"
+}

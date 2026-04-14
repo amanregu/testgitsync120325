@@ -1,0 +1,65 @@
+{
+  "id": "d9f4cbce-1e67-4535-8919-cd67f80ff954",
+  "options": {
+    "host": {
+      "value": "9.234.17.31",
+      "encrypted": false
+    },
+    "port": {
+      "value": "5432",
+      "encrypted": false
+    },
+    "ca_cert": {
+      "encrypted": true,
+      "credential_id": "84593b44-6a7f-4445-a353-a5f246b4b1cd"
+    },
+    "database": {
+      "value": "postgres",
+      "encrypted": false
+    },
+    "password": {
+      "encrypted": true,
+      "credential_id": "b48fb87f-b3e5-494d-9692-d636e14c20de"
+    },
+    "username": {
+      "value": "postgres",
+      "encrypted": false
+    },
+    "root_cert": {
+      "encrypted": true,
+      "credential_id": "a08c315e-44d1-4775-98aa-633221289fc1"
+    },
+    "client_key": {
+      "encrypted": true,
+      "credential_id": "cdc9a9ae-c5ac-4f17-a0c1-13bbc83bc927"
+    },
+    "client_cert": {
+      "encrypted": true,
+      "credential_id": "ef7b6d8d-ece6-4a9e-81a3-379bbacdfcf5"
+    },
+    "ssl_enabled": {
+      "value": false,
+      "encrypted": false
+    },
+    "connection_type": {
+      "value": "string",
+      "encrypted": false
+    },
+    "ssl_certificate": {
+      "value": "none",
+      "encrypted": false
+    },
+    "connection_string": {
+      "encrypted": true,
+      "credential_id": "c94d8a43-1ee6-4c25-9961-31c85b709116"
+    },
+    "allow_dynamic_connection_parameters": {
+      "value": false,
+      "encrypted": false
+    }
+  },
+  "environmentId": "d3816638-d5d2-4eb8-ac11-bc8694d1b1d0",
+  "dataSourceId": "3ce00005-6f5e-49ab-aeb1-6e7e1ee5b32a",
+  "createdAt": "2026-04-02T12:57:22.300Z",
+  "updatedAt": "2026-04-02T12:57:22.300Z"
+}

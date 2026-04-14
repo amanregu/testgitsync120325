@@ -1,0 +1,18 @@
+{
+  "id": "721bb417-c8cf-4140-b594-02414e903483",
+  "name": "button1 On click",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "16265a84-9a2d-4cce-888b-469c7907981b",
+    "actionId": "run-query",
+    "alertType": "info",
+    "component": "button1",
+    "queryName": "addUser",
+    "parameters": {}
+  },
+  "sourceId": "1da187eb-9b73-46c7-b399-8c1f155dbeac",
+  "target": "component",
+  "appVersionId": "09f771a2-7c61-409d-9f33-2ead15d408f4"
+}

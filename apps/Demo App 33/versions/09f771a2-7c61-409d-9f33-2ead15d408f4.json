@@ -1,0 +1,122 @@
+{
+  "id": "09f771a2-7c61-409d-9f33-2ead15d408f4",
+  "definition": {},
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light",
+    "theme": {
+      "id": "d75fefe4-0668-4134-bbf7-4bd2cb0fd3a9",
+      "name": "New custom themess",
+      "organizationId": "c00dbc70-4134-45db-ad9e-8b2a7ecbaea9",
+      "definition": {
+        "brand": {
+          "colors": {
+            "primary": {
+              "light": "#8b572aff",
+              "dark": "#4A6DD9"
+            },
+            "secondary": {
+              "light": "#6A727C",
+              "dark": "#d0021bff"
+            },
+            "tertiary": {
+              "light": "#50e3c2ff",
+              "dark": "#318344"
+            }
+          }
+        },
+        "text": {
+          "font": "IBM Plex Sans",
+          "colors": {
+            "primary": {
+              "light": "#1B1F24",
+              "dark": "#CFD3D8"
+            },
+            "placeholder": {
+              "light": "#6A727C",
+              "dark": "#858C94"
+            }
+          }
+        },
+        "border": {
+          "radius": {
+            "default": 6,
+            "small": 0,
+            "large": 0
+          },
+          "colors": {
+            "default": {
+              "light": "#CCD1D5",
+              "dark": "#3C434B"
+            },
+            "weak": {
+              "light": "#E4E7EB",
+              "dark": "#EEF0F1"
+            }
+          }
+        },
+        "systemStatus": {
+          "colors": {
+            "success": {
+              "light": "#1E823B",
+              "dark": "#318344"
+            },
+            "error": {
+              "light": "#D72D39",
+              "dark": "#D03F43"
+            },
+            "warning": {
+              "light": "#BF4F03",
+              "dark": "#BA5722"
+            }
+          }
+        },
+        "surface": {
+          "colors": {
+            "appBackground": {
+              "light": "#F6F6F6",
+              "dark": "#121518"
+            },
+            "surface1": {
+              "light": "#FFFFFF",
+              "dark": "#1E2226"
+            },
+            "surface2": {
+              "light": "#F6F8FA",
+              "dark": "#2B3036"
+            },
+            "surface3": {
+              "light": "#E4E7EB",
+              "dark": "#3C434B"
+            }
+          }
+        }
+      },
+      "isDefault": false,
+      "isBasic": false,
+      "createdAt": "2025-10-09T12:19:00.583Z",
+      "updatedAt": "2025-10-09T12:19:00.583Z"
+    }
+  },
+  "pageSettings": {
+    "properties": {
+      "position": "top"
+    }
+  },
+  "showViewerNavigation": true,
+  "homePageId": "cbc7c20c-127a-4e7a-84f9-c2096cdc49b0",
+  "versionType": "branch",
+  "appId": "cf04f6c5-478e-41cc-a13a-4dc6414d5dc7",
+  "promotedFrom": null,
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "isStub": false,
+  "sourceTag": null
+}
